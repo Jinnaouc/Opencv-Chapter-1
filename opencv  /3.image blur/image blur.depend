@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464268808 source:/home/tangning/文档/opencv  /3.image blur/image blur/main.cpp
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+

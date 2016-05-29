@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464267863 source:/home/tangning/文档/opencv  /image erosion/main.cpp
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+
